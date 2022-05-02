@@ -9,7 +9,7 @@
 
 # *Conteúdo inicial obrigatório: (startup)*
 ### O que o projeto faz (Incluir o ROI para o aluno. )
- Coloca o aluno no mercado de trabalho.
+ Colocar o aluno no mercado de trabalho.
 ### Por que o projeto é útil (para o aluno e seu currículo)
  Por ensinar um leigo a como programar banco de dados.
 ### Como os usuários podem começar a usar o projeto
@@ -21,6 +21,8 @@
 ### Minicurrículo
 ### Fontes de pesquisa e referências.
 
+# Kanban
+Quadro de produção, diz o que tem para ser feito, o que está sendo feito e o que já foi concluído.
 
 # *Scrum*
 ### Pilares
@@ -61,15 +63,15 @@
 # *Lógica de Programação*
 ## Atividade 1
 ### Comer pizza
-pedir pizza
+*pedir pizza
 
-receber pizza
+*receber pizza
 
-colocar a pizza na mesa
+*colocar a pizza na mesa
 
-pegar pedaço
+*pegar pedaço
 
-comer pizza
+*comer pizza
 ## Análise preliminar
 Os problemas devem ser analisados para achar a solução, depois testados.
 ## Ferramentas
@@ -79,3 +81,10 @@ Software que combina ferramentas comuns de desenvolvimento em um lugar só.
 "IDE é o príncipio para tudo!" 
 
 Exemplos: VSCode, Pycharm, Eclipse, etc...
+
+## Algoritmo
+ Dados
+ Processamento
+ Impressão/
+
+ ## Bootstrap
