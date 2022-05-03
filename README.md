@@ -40,7 +40,7 @@ Quadro de produção, diz o que tem para ser feito, o que está sendo feito e o 
 #### Product Owner
  Ponto central, com poderes de liderança, responsável sobre recursos e funcionalidade contruidos, comunica sobre o projeto.
 #### Dev Team
- Pessoas que constroem o projeto, a equipe deve ser auto-organize, para alcançar a meta do trabalho.
+ Pessoas que constroem o projeto, a equipe deve ser auto-organizada, para alcançar a meta do trabalho.
 
 ### Eventos
 #### Sprint Planning
@@ -82,9 +82,48 @@ Software que combina ferramentas comuns de desenvolvimento em um lugar só.
 
 Exemplos: VSCode, Pycharm, Eclipse, etc...
 
-## Algoritmo
- Dados
- Processamento
- Impressão/
+## Fases Algoritmo
+ Dados  Database
+ 
+ Processamento  Back end
+ 
+ Apresentação/Impressão  Front end
 
- ## Bootstrap
+ Fim
+
+## Bootstrap
+
+ Sintaxe: forma correta de escrever em uma linha
+## Garbage collector
+ Lixeira dos códigos
+ 
+## Sugestão do trabalho
+ Banco de dados mostrando a variação de valor de ações da bolsa de valores
+## Swap
+área de troca das operações que são menos dinâmicas, é uma extensão da memória RAM
+## Laço infinito
+Instruções de um programa que se repetem infinitamente.
+
+## Variáveis e Constantes
+ Constantes e variáveis são espaços de memória reservados para o tipo de dados que você deseja trabalhar.
+ ### Diferenças
+  #### variáveis persistentes
+  Informações inseridas no meio do processo depois de iniciar o aplicativo, que se mantém depois de desligar a máquina.
+  -Planilhas
+
+  -Sheets
+
+  #### variáveis constantes
+   "Valor que não vem de lugar nenhum"
+   
+   ## Models
+   máscaras feitas em cima da base de dados, se enxerga o dado como uma variável, se tornando um objeto
+
+   ## Deploy
+   compactar a informação
+   ## Sistemas de supervisão
+ Mostram verdadeiros dashbords complexos com informações de previsibilidade e histórico.
+ ## IOT
+ "IOT gera dados para estatísticas"  
+
+processo: começa, coleta, processa, persiste, impressão, fim, recomeça
