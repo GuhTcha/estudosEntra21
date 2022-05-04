@@ -127,3 +127,11 @@ Instruções de um programa que se repetem infinitamente.
  "IOT gera dados para estatísticas"  
 
 processo: começa, coleta, processa, persiste, impressão, fim, recomeça
+
+## 03/05/2022 Reorganização Geral
+
+-Criamos um diretório geral
+-Correção do nome de usuário
+#configurar o nome de usuário para o git local
+git config --global user .name "gustavo rodrigues"
+git config global user .email
