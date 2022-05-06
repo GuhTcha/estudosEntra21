@@ -139,9 +139,9 @@ git config global user .email
 ## 05/05/2022
 o que fizemos ontem? Aula de inglês e prova de nivelamento
 
-o que farei hoje?
+o que farei hoje? Complementar a lógica de programação
 
-o que me impede?
+o que me impede? Nada, apenas uma leve falta de noção do que pôr no READme.
 
 
 -exercícios Portugol
