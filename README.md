@@ -135,3 +135,17 @@ processo: começa, coleta, processa, persiste, impressão, fim, recomeça
 #configurar o nome de usuário para o git local
 git config --global user .name "gustavo rodrigues"
 git config global user .email
+
+## 05/05/2022
+o que fizemos ontem? Aula de inglês e prova de nivelamento
+
+o que farei hoje?
+
+o que me impede?
+
+
+-exercícios Portugol
+
+-breve explicação sobre bibliotecas
+
+Tiveram exemplos de python, formação dos grupos e atividades do Portugol.
