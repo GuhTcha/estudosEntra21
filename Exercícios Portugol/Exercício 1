@@ -1,0 +1,61 @@
+------------------------------------------------------
+Autor Gustavo Rodrigues da Silva
+equipe e21-22 4
+------------------------------------------------------
+#Exercicio 001: Versão 001.
+
+    Elabore um algoritmo que calcule a área de um retangulo qualquer, 
+    recebendo, para isso o valor da base e da altura em centimetros.
+    Imprima o tamanho em centimetros. 
+    fazer commit.
+
+link: https://dgadelha.github.io/tcc-webstudio/#share=vg29l05
+
+programa {
+  funcao inicio() 
+  {
+   real altura, base, resultado
+
+   escreva("Qual a altura em cm?")
+ leia(altura)
+   
+   escreva("Qual a base em cm?")
+ leia(base)
+
+  resultado = base * altura
+ 
+ escreva("a área tem " ,resultado,"cm²")
+} 
+-----------------------------------------------------
+-----------------------------------------------------
+
+# Exercicio 002: Versão 002.
+
+    Adicionar condicional composta.
+    Adicione o seguinte teste em eu algoritmo: 
+    - Modifique a unidade para Metros. X
+    - O Retangulo agora representará uma area de terra. X
+    - Calcule a medida de frente e lateral da área e informe o usuario se a área informada se trata de:
+        - um Terreno até 1000m2, 
+        - Um sítio, até 5000m2
+        - Em Hectare de terra até 10000m2
+        - Uma fazenda acima de 10000m2 
+
+programa {
+    funcao inicio() 
+    {
+    real altura, base, resultado
+          
+     escreva("Qual a altura em metros?")
+        leia(altura)
+             
+    escreva("Qual a base em metros?")
+         leia(base)
+          
+     resultado = base * altura
+         se resultado > 1000 escreva("se trata de um terreno")
+         se resultado > 5000 escreva("se trata de um sítio")   
+         se resultado > 10000 escreva ("se trata de um hectare de terra")
+     
+     escreva("a terra tem " ,resultado,"m²")
+

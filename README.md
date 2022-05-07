@@ -149,3 +149,12 @@ o que me impede? Nada, apenas uma leve falta de noção do que pôr no READme.
 -breve explicação sobre bibliotecas
 
 Tiveram exemplos de python, formação dos grupos e atividades do Portugol.
+
+## 06/05/2022
+O que fizemos ontem? Exercícios básicos de Portugol(entrada e saida, operações aritméticas, algoritmos sequenciais e desvios condicionais) e apresentação de bibliotecas.
+
+o que farei hoje? Laços de repetição e vetores matrizes (talvez) com algum exercício
+
+O que me impede?
+
+
