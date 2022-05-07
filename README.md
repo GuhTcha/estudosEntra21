@@ -155,6 +155,8 @@ O que fizemos ontem? Exercícios básicos de Portugol(entrada e saida, operaçõ
 
 o que farei hoje? Laços de repetição e vetores matrizes (talvez) com algum exercício
 
-O que me impede?
+O que me impede? Nada
+
+-hoje fizemos a primeira aula prática em Portugol, eu e meu grupo tivemos de resolver alguns exercícios, fiquei um pouco para trás.
 
 
