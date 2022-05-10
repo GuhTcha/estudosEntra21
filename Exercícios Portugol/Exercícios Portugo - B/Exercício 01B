@@ -1,0 +1,115 @@
+#Exercicio: 001b: Versão 001.
+
+    Calcule a area de um retangulo.
+    Sem solicitar dados ao usuário.
+    Para isto defina as variáveis: ladoA, LadoB, resultado. 
+    Imprima o resultado.
+
+    programa
+{
+	
+	funcao inicio()
+	{
+	    real ladoA, ladoB
+	    inteiro area
+	
+	    ladoA = 10
+	    ladoB = 10
+	
+	     area = (ladoA * ladoB)
+          escreva ("a área do retângulo é ",area) 
+	}
+}
+
+
+#Exercicio: 001b: versão 002.
+
+    Calculo o perimetro de um retangulo.
+    Utilize as mesmas variáveis da versão 001.
+
+    programa
+{
+	
+	funcao inicio()
+	{
+	    real ladoA, ladoB
+	    inteiro area
+	
+	    ladoA = 10
+	    ladoB = 10
+	
+	     area = 2*(ladoA + ladoB)
+          escreva ("a área do perimetro é ",area) 
+	}
+}
+
+
+#Exercicio: 001b: versão 003.
+
+    Solicite os dados do usuário para calcular os dados do retangulo.
+    Utilize as mesmas variaveis. 
+    Imprima o resultado da área do retangulo e o perimetro do retangulo.
+
+    programa
+{
+	
+	funcao inicio()
+	{
+	    real altura, base
+	    inteiro areaA, areaP
+	
+	    escreva ("qual a altura desse retângulo?")
+	      leia(altura)
+
+	    escreva ("qual a base desse retângulo?")
+	      leia(base)
+	
+	     areaA = (altura * base)
+           escreva ("a área do retângulo é ",areaA) 
+
+          areaP = 2*(altura + base)
+           escreva (", e o perimetro é ",areaP) 
+
+	}
+}
+
+
+#Exercicio: 001b: versão 004. 
+
+    Adicione uma condicional simples. 
+    Utilize os resultados acima e faça o seguinte teste:
+    Informe em uma condicional simples quem é maior, perimetro ou a area. 
+    (vamos descondiderar as unidades m2 e mlinear), apenas pensar nas unidades.
+
+    programa
+{
+	
+	funcao inicio()
+	{
+	    real altura, base
+	    inteiro areaA, areaP
+	
+	    escreva ("qual a altura desse retângulo?")
+	      leia(altura)
+
+	    escreva ("qual a base desse retângulo?")
+	      leia(base)
+	
+	     areaA = (altura * base)
+           escreva ("a área do retângulo é ",areaA) 
+
+          areaP = 2*(altura + base)
+           escreva (", e o perimetro é ",areaP) 
+
+           se (areaP < areaA) 
+            escreva (" o perimetro é menor que a área ")
+
+           senao se (areaP > areaA)
+            escreva (" a área é maior que o perimetro ")
+
+           senao se (areaP == areaA)
+            escreva (" os dois tem tamanhos iguais ")
+
+	}
+}
+

@@ -168,3 +168,11 @@ O que faremos hoje? Revisar alguns exercícios, mostrar dados de seleção(talve
 O que me impede? 
 
 Fizemos novamente os exercícios, tive uma certa dificuldade, mas consegui terminar o exercício 03 depois da aula.
+
+
+## 10/05/2022
+O que fizemos ontem? Refizemos a
+
+o que faremos hoje? Correção e análise de exercício
+
+o que me impede? Falta de prática
