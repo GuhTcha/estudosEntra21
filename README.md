@@ -165,4 +165,6 @@ O que fizemos ontem? Aula prática de Portugol em equipe
 
 O que faremos hoje? Revisar alguns exercícios, mostrar dados de seleção(talvez) e estruturas de seleção(talvez).
 
-O que me impede?
+O que me impede? 
+
+Fizemos novamente os exercícios, tive uma certa dificuldade, mas consegui terminar o exercício 03 depois da aula.
