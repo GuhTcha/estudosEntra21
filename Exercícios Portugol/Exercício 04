@@ -45,9 +45,10 @@ programa
 	        escreva (G+", ")
 	        G++
 	        }
-       escreva (" Tu é monstro! ")
+       escreva ("\n\nTu é monstro!\n\n")
 	}
 }
+
 
 
 
