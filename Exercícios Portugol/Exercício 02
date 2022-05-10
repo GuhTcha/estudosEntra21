@@ -1,0 +1,31 @@
+Exercicio 002:
+
+Elabore um algoritmo que receba dois numeros pelo teclado e compare se os números são:
+- iguais
+- A < B 
+- B < A 
+E informe o usuário. 
+
+programa
+{
+	
+	funcao inicio()
+	{
+	real A, B
+	
+	escreva ("O que é A? ")
+	leia (A)
+
+	escreva ("O que é B? ")
+	leia (B)
+
+	se (A == B)  escreva ("A é igual a B") 
+
+	se (A < B) escreva ("A é menor que B") 
+
+	se (A > B) escreva ("A é maior que B") 
+	
+	}
+}
+
+ 

@@ -160,3 +160,9 @@ O que me impede? Nada
 -hoje fizemos a primeira aula prática em Portugol, eu e meu grupo tivemos de resolver alguns exercícios, fiquei um pouco para trás.
 
 
+## 09/05/2022
+O que fizemos ontem? Aula prática de Portugol em equipe
+
+O que faremos hoje? Revisar alguns exercícios, mostrar dados de seleção(talvez) e estruturas de seleção(talvez).
+
+O que me impede?

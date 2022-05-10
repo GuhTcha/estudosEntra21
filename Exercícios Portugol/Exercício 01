@@ -1,0 +1,28 @@
+------------------------------------------------------
+Autor: Gustavo Rodrigues da Silva
+equipe: e21-22 4
+------------------------------------------------------
+#Exercicio 001: Versão 001.
+
+    Elabore um algoritmo que calcule a área de um retangulo qualquer, 
+    recebendo, para isso o valor da base e da altura em centimetros.
+    Imprima o tamanho em centimetros. 
+    fazer commit.
+
+link: https://dgadelha.github.io/tcc-webstudio/#share=vg29l05
+
+programa {
+  funcao inicio() 
+  {
+   real altura, base, resultado
+
+   escreva("Qual a altura em cm?")
+ leia(altura)
+   
+   escreva("Qual a base em cm?")
+ leia(base)
+
+  resultado = base * altura
+ 
+ escreva("a área tem " ,resultado,"cm²")
+} 
