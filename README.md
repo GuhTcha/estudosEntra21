@@ -176,3 +176,5 @@ O que fizemos ontem? Refizemos a
 o que faremos hoje? Correção e análise de exercício
 
 o que me impede? Falta de prática
+
+Hoje fiz muitos exercícios, mas acabei empacando no exercício 02B e não fiz a linha principal de exercícios. Foi explicada as funções e explicado exercício 5.
