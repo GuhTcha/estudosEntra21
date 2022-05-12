@@ -182,9 +182,6 @@ Hoje fiz muitos exercícios, mas acabei empacando no exercício 02B e não fiz a
 ## 12/05/2022
 O que fizemos ontem? Cada empresa mandou seu representante e alguns alunos, para dizerem sobre o curso e foi comentada sobre a sindrome do impostor e como a imagem que passamos é importante, para nos destacarmos.
 
-O que faremos hoje? 
-
-O que me impede?
 Os valores da aula magna: Além de esforço é necessário se destacar, sobre a sindrome do impostor que as vezes sabemos fazer algo, mas não fazemos.
 
 Canva, inshot, 
