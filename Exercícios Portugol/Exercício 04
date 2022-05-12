@@ -39,17 +39,31 @@ programa
 	
 	funcao inicio()
 	{
+	    real primeiro, segundo
+	    inteiro nr
+	     
+	     {
+	       enquanto (nr != 1000)
+           {
+         
+	      escreva ("\nQual o primeiro o número?")
+	       leia(primeiro)
 
-	        inteiro G = 0.000000000000001
-	        enquanto (G<=1000){
-	        escreva (G+", ")
-	        G++
-	        }
-       escreva ("\n\nTu é monstro!\n\n")
+	      escreva ("Qual o segundo número?")
+	       leia(segundo)
+	
+	       nr = (primeiro * segundo)
+            se (nr < 1000)
+             escreva (" O resultado é ",nr) 
+            
+            se (nr == 1000)
+             escreva ("Sua multiplicação foi igual a 1000, parabéns!") 
+            }
+	     }
+	     {    
+	    	  
+	     }
 	}
-}
-
-
 
 
 Exemplo de uso de funcoes: 
