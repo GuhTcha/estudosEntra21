@@ -11,10 +11,10 @@
   funcao inicio() {
   
     real primeiro, segundo, resm, raiz
-     escreva ("Qual o número?")
+     escreva ("Qual o número? ")
      leia (primeiro)
     
-     escreva ("Qual o próximo número?")
+     escreva ("Qual o próximo número? ")
      leia (segundo)
 
       resm = primeiro * segundo
