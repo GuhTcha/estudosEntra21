@@ -185,3 +185,10 @@ O que fizemos ontem? Cada empresa mandou seu representante e alguns alunos, para
 Os valores da aula magna: Além de esforço é necessário se destacar, sobre a sindrome do impostor que as vezes sabemos fazer algo, mas não fazemos.
 
 Canva, inshot, 
+
+## 13/05/2022
+O que fizemos ontem? Falamos sobre a aula magna, fizemos exercícios de Portugol.
+
+o que faremos hoje? Mais exercícios de Portugol.
+
+o que me impede? Tive dificuldade em utilizar os números randômicos.
