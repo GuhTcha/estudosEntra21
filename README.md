@@ -192,3 +192,11 @@ O que fizemos ontem? Falamos sobre a aula magna, fizemos exercícios de Portugol
 o que faremos hoje? Mais exercícios de Portugol.
 
 o que me impede? Tive dificuldade em utilizar os números randômicos.
+
+## 16/05/2022 
+O que fiz ontem? Mais exercícios de Portugol e planejamento para a aula de hoje
+
+O que farei hoje? Iremos trabalhar com Python
+
+O que me impede?
+
