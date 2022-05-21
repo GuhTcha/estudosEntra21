@@ -1,0 +1,6 @@
+no= input('Qual seu nome? ')
+i= input('Qual sua idade? ')
+s= input('Sexo? ')
+ec= input('estado civil ')
+n= input('Qual sua nacionalidade? ')
+r= input('Renda mensal? ')
