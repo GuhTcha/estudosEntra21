@@ -1,0 +1,24 @@
+#Exercicio 002b: versão1
+
+    Receba os dados de duas variaveis. 
+    Imprimir o resultado da multiplicação das duas variaveis. 
+    Calcule a raiz quadrada do resultado e imprima. 
+
+    //dificuldade com a criação de uma raiz
+
+    programa {
+ inclua biblioteca Matematica --> math
+  funcao inicio() {
+  
+    real primeiro, segundo, resm, raiz
+     escreva ("Qual o número? ")
+     leia (primeiro)
+    
+     escreva ("Qual o próximo número? ")
+     leia (segundo)
+
+      resm = primeiro * segundo
+       raiz = math.raiz (resm,2)
+       escreva ("resultado da multiplicação: ", resm,"\n Raiz² do resultado: ",raiz)
+  }
+}
