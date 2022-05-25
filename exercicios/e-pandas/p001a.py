@@ -1,0 +1,19 @@
+from pfiles import importa_planilha
+
+exemplo = 1
+
+print(f'Demonstração do Exemplo: {exemplo}')
+
+if (exemplo == 1):
+    colunas = list('id','Nome','Telefone')
+
+    dd = importa_planilha(colunas)
+
+    colunas.remove['id']
+
+    for i in dd.items():
+        print(f' items: {i}')
+    
+    for i in dd.values():
+        print(f'Values: {i} ')
+

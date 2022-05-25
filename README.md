@@ -200,3 +200,29 @@ O que farei hoje? Iremos trabalhar com Python
 
 O que me impede?
 
+## 17/05/2022
+Hoje não teve daily scrum, tivemos a explicação de alguns exercícios
+
+## 18/05/2022
+hairbrush - on the table
+laptop - between the book
+umbrella - in the trash
+glasses - on the book
+keys - on the floor
+tablet - in front of the television
+credit card - next to the alarm clock
+
+## 19/05/2022
+Foram passados mais exercícios feitos pelo professor, enquanto comentava sobre os mesmo e também foi introduzido as ferramentas de compartilhamento de tela (anydesk,...).
+
+## 20/05/2022
+Hoje fizemos mais exercícios em Python, fiquei um pouco para trás, mas durante o final de semana vou recuperar.
+
+## 23/05/2022
+A gente leu as nossas médias, dividimos os dicionários de dados, introdução args e kwargs, ficamos o restante da aula buscando fazer os exercícios e060.py, e060b.py e e060d.py funcionar.
+
+
+Atv:Criar uma base de dados
+
+## 24/05/2022
+Hoje recaptulamos os exercicios anteriores e utilizamos o Sheets para desenvolver um banco de dados, tive certo êxito, mas não consegui completar o exercício.
