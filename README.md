@@ -226,3 +226,22 @@ Atv:Criar uma base de dados
 
 ## 24/05/2022
 Hoje recaptulamos os exercicios anteriores e utilizamos o Sheets para desenvolver um banco de dados, tive certo êxito, mas não consegui completar o exercício.
+
+## 25/05/22
+Questions:
+  Country to visit: USA
+  Native language: English
+  Nationality: American
+  Largest City of this country: New York
+  Location you like to visit: Times Square
+
+Text:
+  I want to know United States of America, because it's my child dream, visit the world power country, because it's a totally diferent from Brazil, a developed country with the language most talked in the world, english, the first language i know some words after brazilian portuguese, and i want to visit some citys and places of this country, one of these is New York, Washington D.C, São Francisco, and others... Some of theses places and citys i want to know, because of the movies, the movies make my childhood attending "sessão da tarde" and others, the majority of movies is set in american soil show me the allmost tourist attractions and i want to see with my eyes.
+
+## 26/05/2022
+O professor explicou algumas coisas, como "while", "for" e no fim baixamos um programa que monitora a temperatura do computador.
+
+(extensão-vscode) prettier:
+  shift+alt+f
+se tornar bloqueada
+ ctrl+:
