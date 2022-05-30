@@ -244,4 +244,24 @@ O professor explicou algumas coisas, como "while", "for" e no fim baixamos um pr
 (extensão-vscode) prettier:
   shift+alt+f
 se tornar bloqueada
- ctrl+:
+ ctrl + :
+
+## 27/05/2022
+Hoje fizemos mais alguns exercícios dos e060 em diante e depois utilizamos o venv.
+
+## 30/05/2022
+O que fiz ontem? Exercicios de for, while, pandas, visual studio.
+
+o que farei hoje? Uma continuação das aulas anteriores
+
+o que me impede? 
+
+Comandos venv:
+  Criar venv:
+    python -m venv [nome do venv]
+    .\ [nome do venv]\Scripts\Activate.ps1
+  Sair do venv:
+    deactivate
+    
+Atualizar Pip:
+   pip install --upgrade pip
