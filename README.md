@@ -262,6 +262,8 @@ Comandos venv:
     .\ [nome do venv]\Scripts\Activate.ps1
   Sair do venv:
     deactivate
-    
+
 Atualizar Pip:
    pip install --upgrade pip
+
+'Os pacotes são atualizados usando o pip freeze > requeriments.txt'
