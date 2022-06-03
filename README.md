@@ -250,20 +250,42 @@ se tornar bloqueada
 Hoje fizemos mais alguns exercícios dos e060 em diante e depois utilizamos o venv.
 
 ## 30/05/2022
-O que fiz ontem? Exercicios de for, while, pandas, visual studio.
+  ### Daily Scrum
+    O que fiz ontem? Exercicios de for, while, pandas, visual studio.
 
-o que farei hoje? Uma continuação das aulas anteriores
+    O que farei hoje? Uma continuação das aulas anteriores
 
-o que me impede? 
+    O que me impede? 
 
-Comandos venv:
-  Criar venv:
+  ### Comandos venv:
+  #### Criar venv:
     python -m venv [nome do venv]
     .\ [nome do venv]\Scripts\Activate.ps1
-  Sair do venv:
+
+  #### Sair do venv:
     deactivate
 
-Atualizar Pip:
-   pip install --upgrade pip
+  ### Atualizar Pip:
+    pip install --upgrade pip
 
-'Os pacotes são atualizados usando o pip freeze > requeriments.txt'
+'Os requirements é atualizado usando o pip freeze > requeriments.txt'
+
+  ### Conectar um negócio local com a nuvem do GitHub: 
+    Indicar o URL:
+      $ git remote add origin [URL]
+
+   Verificação:
+      $ git remote -v
+
+    Retorno da verificação:
+      origin  [URL] (fetch)
+      origin  [URL] (push)
+
+O que fizemos hoje? Toda a turma se nivelou em venv e tivemos algumas explicações como requirement.txt e demais.
+
+## 02/06/2022
+O que fizemos ontem? Alguns exercícios passados por aulas gravadas, nivelamento de venv e explicação do requirement.txt
+
+O que faremos hoje? Mais exercícios com orientação a objetos.
+
+O que me impede? Falta de compreensão plena sobre orientação a objetos, falta de tempo para refazer as atividades.
