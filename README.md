@@ -289,3 +289,6 @@ O que fizemos ontem? Alguns exercícios passados por aulas gravadas, nivelamento
 O que faremos hoje? Mais exercícios com orientação a objetos.
 
 O que me impede? Falta de compreensão plena sobre orientação a objetos, falta de tempo para refazer as atividades.
+
+## 03/06/2022
+Hoje analisamos códigos de alguns colegas buscando compreender nossos erros e acertos, aprimorando a nós mesmos. Tivemos um vislumbre sobre como será a matéria de banco de dados, assim como robôs.
