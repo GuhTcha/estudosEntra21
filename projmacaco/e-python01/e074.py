@@ -2,20 +2,20 @@
 def calculate():
     operation = input('Qual o calculo?')
 
-    num1 = int(input('Coloque o primeiro numero: '))
-    num2 = int(input('Coloque o segundo número: '))
+    n1 = int(input('Coloque o primeiro numero: '))
+    n2 = int(input('Coloque o segundo número: '))
 
     if operation == '+':
-        print('=', num1 + num2)
+        print('=', n1 + n2)
 
     elif operation == '-':
-        print('=', num1 - num2)
+        print('=',n1 - n2)
 
     elif operation == '*':
-        print('=', num1 * num2)
+        print('=',n1 * n2)
 
     elif operation == '/':
-        print('=', num1 / num2)
+        print('=',n1 / n2)
 
     else:
         print("tente novamente")

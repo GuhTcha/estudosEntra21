@@ -261,6 +261,9 @@ Hoje fizemos mais alguns exercícios dos e060 em diante e depois utilizamos o ve
   #### Criar venv:
     python -m venv [nome do venv]
     .\ [nome do venv]\Scripts\Activate.ps1
+  
+  #### entrar no venv:
+    e21 = C:\entra21\Dados-e21-22-curso\e21/Scripts/Activate.ps1
 
   #### Sair do venv:
     deactivate
@@ -292,3 +295,6 @@ O que me impede? Falta de compreensão plena sobre orientação a objetos, falta
 
 ## 03/06/2022
 Hoje analisamos códigos de alguns colegas buscando compreender nossos erros e acertos, aprimorando a nós mesmos. Tivemos um vislumbre sobre como será a matéria de banco de dados, assim como robôs.
+
+## 07/06/2022
+Hoje realizamos exercícios por conta própria, acho muito interessante fazer essas atividades dessa forma, coloca nosso conhecimento a tona e me mostrou o que não sei. Tive um erro em instalar o pandas e num2word no venv, mas fora do venv instalava normal.
