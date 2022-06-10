@@ -265,6 +265,7 @@ Hoje fizemos mais alguns exercícios dos e060 em diante e depois utilizamos o ve
   #### entrar no venv:
     e21 = C:\entra21\Dados-e21-22-curso\e21/Scripts/Activate.ps1
 
+    entra21 = C:\entra21\Dados-e21-22-curso\projmacaco\e-python01\[entra21].ps1
   #### Sair do venv:
     deactivate
 
@@ -298,3 +299,9 @@ Hoje analisamos códigos de alguns colegas buscando compreender nossos erros e a
 
 ## 07/06/2022
 Hoje realizamos exercícios por conta própria, acho muito interessante fazer essas atividades dessa forma, coloca nosso conhecimento a tona e me mostrou o que não sei. Tive um erro em instalar o pandas e num2word no venv, mas fora do venv instalava normal.
+
+## 08/06/2022
+Tivemos a aula de inglês da semana e fizemos atividades interativas durante todo o momento.
+
+## 09/06/2022
+O professor deu uma explicação de como se portar no primeiro dia como dev em uma empresa, na segunda metade da aula fomos divididos em grupos para fazer os exercícios, consegui desenvolver 2 exercícios.
