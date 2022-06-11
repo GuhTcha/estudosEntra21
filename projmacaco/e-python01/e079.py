@@ -1,7 +1,9 @@
-import num2words
+from num2words import num2words
 
-numero = int( input('Digite um número: ') )
+num = int(input('Digite um numero de 0 a 100: '))
 
-numextenso = num2words(numero, lang='pt-br')
-
-print(f'Número: {numextenso}')
+if num < 100 or num > 0 :
+    num_extenso = num2words(num,lang='pt-br')
+    print(f'Numero digitado: {num_extenso}')
+else:
+    print ('Refaça, por favor')

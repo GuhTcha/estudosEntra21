@@ -305,3 +305,6 @@ Tivemos a aula de inglês da semana e fizemos atividades interativas durante tod
 
 ## 09/06/2022
 O professor deu uma explicação de como se portar no primeiro dia como dev em uma empresa, na segunda metade da aula fomos divididos em grupos para fazer os exercícios, consegui desenvolver 2 exercícios.
+
+## 10/06/2022
+Durante a aula o professor explicou alguns exercícios e mostrou a resolução de alguns exercícios feitas por alunos, foi muito interessante ver que alguns colegas usaram ferramentas que eu não lembrava e o professor também, como o .split().
