@@ -311,3 +311,6 @@ Durante a aula o professor explicou alguns exercícios e mostrou a resolução d
 
 ## 13/06/2022
 Tivemos a primeira aula de desenvolvimento humano, depois de nos apresentarmos a professora a energia acabou e só voltou agora(21:20).
+
+## 14/06/2022
+Fizemos alguns exercícios, mostrando exemplos de alguns alunos 
