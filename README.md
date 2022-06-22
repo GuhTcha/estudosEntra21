@@ -314,3 +314,10 @@ Tivemos a primeira aula de desenvolvimento humano, depois de nos apresentarmos a
 
 ## 14/06/2022
 Fizemos alguns exercícios, mostrando exemplos de alguns alunos 
+
+## 21/06/2022
+O que fizemos ontem? Exercicios de python
+O que faremos hoje? mais exercicios
+O que me impede? As férias atrapalharam o ritmo da aula
+
+Hoje o professor dividiu os grupos e deu alguns exercícios, no grupo fizemos individualmente cada um seus exercicios e no fim da aula o professor deu uma explicação sobre fatiamento e sua utilização para banco de dados. Consegui fazer o exercicio e078.py, e090.py e e091.py com auxilio de referências como o repositório do professor e um repositório para fazer o código morse.

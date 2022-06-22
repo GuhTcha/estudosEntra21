@@ -60,3 +60,47 @@
     5.  '''
         1.  return num **2 
     6.  Faça o mesmo com uma Class.
+
+    Plus:
+        instanciar uma variavel com as classes: dict() e list() e estudar a funcionalidade de cada metodo visivel das classes. 
+
+        '''
+        dd = dict()
+        dd.clear
+        dd.copy
+        dd.fromkeys
+        dd.get
+        dd.?????
+
+        ll = list()
+        ll.append
+        ll.clear
+        ll.count
+        ll.extend
+        ll.?????
+
+        '''
+
+90.  Crie um programa que recebe do usuário uma sequencia de números aleatórios separados por vírgula, armazene os números um a um, em formato de texto, como elementos ordenados de uma lista. Mostre em tela a lista com seus respectivos elementos após serem ordenados. 
+
+91. Escreva um programa da forma mais reduzida possível, que recebe do usuario uma série de nomes, separando os mesmos e os organizando em ordem alfabetica. Em Seguida exiba em tela os nomes já ordenados. 
+# desafio !!! 
+
+92. Escreva um simples programa que recebe do usuário um número qualquer, retornando ao mesmo se este número é um numero perfeito.
+    '''Um número se diz perfeito se é igual à soma de seus divisores próprios. Divisores próprios de um número positivo N são todos os      divisores inteiros positivos de N exceto o próprio N.
+    Por exemplo, o número 6, seus divisores próprios são 1, 2 e 3, cuja soma é igual à 6.
+    1 + 2 + 3 = 6
+
+93. Escreva uma função que recebe uma lista de elementos totalmente aleatórios e os ordena de forma crescente de acordo com seu valor numérico:
+
+94. Crie uma estrutura toda orientada a objetos que recebe do usuário uma string qualquer, retornando a mesma com todas as suas letras convertidas para maiúsculas. Os métodos de classe para cada funcionalidade devem ser independentes entre si, porem trabalhar no escopo geral da classe. Chame no escopo global do programa cada um dos métodos. 
+
+95. Escreva de forma reduzida um programa que recebe do usuário um nome e duas notas, salvando tais dados como um elemento de uma lista. Exiba em tela o conteudo desta lista. use: from operator import itemgetter
+
+96. Crie um programa que gera o valor de salário de funcionários considerando apenas horas trabalhadas e horas extras, sendo o valor fixo de hora trabalhada R$ 29,11 e do adicionasl de hora extra R$ 5,00. Crie uma regra onde o funcionário só tem direito a receber horas extras a partir de 40 horas trabalhdas de forma convencional. 
+
+97. Reescreva o código anterior adicionando um mecanismo simples de validação que verifica se os dados inseridos pelo usuário são de tipos uméricos, caso não sejam, encerrar o processo. 
+
+98. Crie um programa que recebe uma nota entre 0 e 1.0, classificando de acordo com a nota se o aluno ficticio está aprovado ou em recuperação de acordo com a sua nota. A média para aprovação deve ser 0.6 ou mais, e o programa deve realizar as devidas validações para caso o usuário digite a nota em um formato invalido. 
+
+99. Crie uma estrutra molde (orientada a objetos) para cadastro de veículos, tendo como caracteristicas que os descrevem sua marca, modelo, ano, cor e valor. Cadastre ao menos três veículos, revelando seu numero identificador de objeto alocado em memória, assim como o retorno esperado pelo usuário quando o mesmo consultar tal veículo. 
