@@ -1,4 +1,4 @@
-a = [x for x in input('diga-me numeros: ').split(' ')]
+a = [x for x in input('diga-me numeros: ').split(',')]
 a.sort()
 lista = a
 print(lista)

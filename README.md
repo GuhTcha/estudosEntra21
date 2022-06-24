@@ -321,3 +321,9 @@ O que faremos hoje? mais exercicios
 O que me impede? As férias atrapalharam o ritmo da aula
 
 Hoje o professor dividiu os grupos e deu alguns exercícios, no grupo fizemos individualmente cada um seus exercicios e no fim da aula o professor deu uma explicação sobre fatiamento e sua utilização para banco de dados. Consegui fazer o exercicio e078.py, e090.py e e091.py com auxilio de referências como o repositório do professor e um repositório para fazer o código morse.
+
+## 22/06/2022
+Fizemos mais uma aula de ingles com a professora Maiara.
+
+## 23/06/2022
+Fomos separados em grupos para terminar as ativiades passadas ontem, ainda não terminei, imagino que amanhã eu consigo terminar todos.
