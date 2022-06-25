@@ -327,3 +327,62 @@ Fizemos mais uma aula de ingles com a professora Maiara.
 
 ## 23/06/2022
 Fomos separados em grupos para terminar as ativiades passadas ontem, ainda não terminei, imagino que amanhã eu consigo terminar todos.
+
+## 24/06/2022
+Banco de dados:
+  Um conjunto de informações organizadas onde os dados são facilmente atualizados, alterados e consultados.
+  
+SQL(Structured Query Language):
+  SQL-Server
+  Linguagem de programação:
+    Views:
+      Forma com que enxergamos os dados de diversas tabelas diferentes
+    Triggers:
+      atraves desses ele pode controlar os dados
+    Linguagem de consulta - Query:
+      Consulta
+      Inclusão
+      Alteração
+    QuerySets:
+      conceito lazy:
+        prepara a query antecipadamente, mas dá o resultado depois
+
+S6DB:
+  Oracle
+  MySQL ou MariaDB:
+    Ferramenta completa, com uma capacidade de leitura e armazenamento gigante. Tem uma versão lite.
+  MS SQL
+  Sqlite:
+    Serve para desenvolver aplicações, não serve para aplicações simultâneas e é mais lento.
+    StandAlone:
+      Fazer para treinar e brincar sozinho, não serve para a produção
+      
+  PostegreSQL
+
+DashBoard:
+
+Finanças Cidx:
+  Escovar bits
+  Analise de dados:
+    Base que seja minha
+  Filtrar:
+    CSU
+    XLXC
+
+Analista de dados:
+  Ajuda na previsibilidade, fluxo de caixa previsão de faturamento...
+  O que é necessário?
+    Dados:
+      SGDB
+    Acesso
+    Processo:
+      Python
+    Visão:
+      Dashboards
+    Impressão
+
+Rede ModBos:
+  Scanner:
+    converte em banco de dados
+
+obs:Na primeira metade da aula, tivemos uma explicação sobre analise de dados, na segunda metade terminei de fazer os exercícios propostos.

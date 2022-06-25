@@ -4,7 +4,9 @@ b=str(input('outra frase para a comparação: '))
 
 if len(a) > len(b):
     print(a,len(a))
+    
 if len(b) > len(a):
     print (b,len(b))
+
 if len(a) == len(b):
     print(a,len(a),b,len(b))
