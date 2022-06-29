@@ -386,3 +386,126 @@ Rede ModBos:
     converte em banco de dados
 
 obs:Na primeira metade da aula, tivemos uma explicação sobre analise de dados, na segunda metade terminei de fazer os exercícios propostos.
+
+## 28/06/2022 
+O que fizemos ontem? Na primeira metade, uma explicação sobre análise de dados e na segunda metade resolução do exercício e099.py.
+
+O que faremos hoje? Iremos começar a utilizar o banco de dados.
+
+O que me impede? Falta de conhecimento.
+### Banco de dados:
+  Conjunto de informações organizadas em um formato onde possam ser facilmente:
+    - Armazenados.
+    - Gerenciados.
+    - Atualizados.
+    - Recuperados.
+
+### Tipos de banco de dados:
+  Categorias (duas):
+    - Banco de dados Relacional
+    - Banco de dados Não relacional (NoSQL)
+  
+### Estrutura de um banco de dados:
+  - banco de dados Relacional: Caracterizado pela forma como os dados são armazenados.
+  - Tabelas respeitam um SCHEMA determina como as tabelas devem ser.
+  - Tabelas ou Entidades
+exmplo:
+  : cpf               :nome     :idade :
+  : 123.456.189-11    :Adriano  :18    :
+  : 123.456.777-11    :Karina   :40    :
+
+  - Coluna ou Atributo
+  - Linhas ou Tuplas
+
+### Tipos de Dados(SQLite):
+  - Text
+  - Integer
+  - Real
+  - Null:
+  - Blob
+  
+### Chave Primaria - PK Primary Key - Ela serve para definir exclusividade dentro de uma tabela. Cada linha de nossa tabela é única, PK. So podemos definir uma única coluna dentro da tabela como PK. Não pode ser mudada nunca, nem mesmo pode ser nula.
+
+ID:
+  Abreviação de 'Identificação' (criar uma sequência automática)
+
+### FK(Chave Estrangeira)(foreign Key):
+  Chave primária de uma outra tabela
+Pessoas:
+: id  : cpf            : nome    : cidade  :
+: 1   : 122.222.222-22 : Adriano : 1       :
+: 2   : 134.444.444-44 : Karina  : 2       :
+: 3   : 123.456.789.10 : Odineia : 3       :
+
+Cidades:
+: id  : Cidade       : UF :
+: 1   : Campo Grande : 2  :
+: 2   : Joinville    : 1  :
+
+Estado:
+: id  : Estado              :
+: 1   : Santa Catarina      :
+: 2   : Mato Grosso do Sul  :
+
+### Relacionamento entre Tabelas:
+  Relacionamentos é associação entre as tabelas que são conectadas por chaves primárias(PK), Chaves Estrangeiras (FK).
+
+  1:1 - Relacionamento em 1 linha de uma tabela com 1 linha de outra tabela.
+  1:N - Relacionamento de 1 linha de uma tabela com muitas linhas de outras tabelas.
+  N:N - Relacionamento de muitas linhas de uma tabela com muitas linhas de outras tabelas.
+
+### 1:1 - Relacionamento um para um.
+  1:1 - Gerentes x Departamentos
+
+  Gerentes:
+  : id  : Gerente : 
+  : 1   : Hanz    :
+  : 2   : Fritz   :
+
+  Departamentos:
+  : id   : nome      : gerente_id :
+  : 1    : Produção  : 2          :
+  : 2    : Marketing : 1          :
+
+### Relacionamento (1:N):
+  Marcas:
+  : id  : nome  :
+  : 1   : Apple  : 
+  : 2   : Dell   :
+
+  Produtos:
+  : id : Nome         : id_marca  :
+  : 1  : Teclado      : 2         :
+  : 2  : Mouse        : 2         :
+  : 3  : Iphone       : 1         :
+  : 4  : Macintosh    : 1         :
+  : 5  : Monitor      : 2         :
+  
+  
+### Relacionamento (M:N):
+  
+  Musica:
+  : id  : Nome                : 
+  : 1   : Highway To Hell     :
+  : 2   : Starway To Heaven   :
+  : 3   : Numb                :
+
+  Autores:
+  : id  : Nome          :
+  : 1   : Bon Scott     :
+  : 2   : Angus Youg    :
+  : 3   : Malcon Youg   :
+  : 4   : Robert Plant  :
+  : 5   : Jimmy Page    :
+  : 6   : Phill Collins :
+
+  MusicasXAutores:
+  : id : musica_id : autores_id :
+  : 1  : 1         : 1          :
+  : 2  : 1         : 2          :
+  : 3  : 1         : 3          :
+  : 4  : 2         : 4          :
+  : 5  : 2         : 5          :
+  : 6  : 3         : 6          :
+
+obs: Hoje fomos introduzidos ao banco de dados, com apenas a utilização do DBeaver para uma explicação mais prática.
