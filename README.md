@@ -509,3 +509,14 @@ Estado:
   : 6  : 3         : 6          :
 
 obs: Hoje fomos introduzidos ao banco de dados, com apenas a utilização do DBeaver para uma explicação mais prática.
+
+## 30/06/2022
+Auto relcionamento
+  Quando duas ou mais linhas de uma mesma tabela, se relacionam.
+
+Schema:
+  diagrama exportado para o SQL
+    create database
+    use database
+
+obs:Fiz a atividade durante a introdução a aula, fiquei muito para trás durante essa aula.
