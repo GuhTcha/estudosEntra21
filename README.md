@@ -424,13 +424,14 @@ exmplo:
   - Null:
   - Blob
   
-### Chave Primaria - PK Primary Key - Ela serve para definir exclusividade dentro de uma tabela. Cada linha de nossa tabela é única, PK. So podemos definir uma única coluna dentro da tabela como PK. Não pode ser mudada nunca, nem mesmo pode ser nula.
+### Chave Primaria - PK Primary Key - Ela serve para definir exclusividade dentro de uma tabela. Cada linha de nossa tabela é única, PK. So podemos definir uma única coluna dentro da tabela como PK. Não pode ser mudada nunca, nem mesmo pode ser nula. Normalmente é usada no ID e sempre é do tipo int.
 
 ID:
   Abreviação de 'Identificação' (criar uma sequência automática)
 
 ### FK(Chave Estrangeira)(foreign Key):
   Chave primária de uma outra tabela
+
 Pessoas:
 : id  : cpf            : nome    : cidade  :
 : 1   : 122.222.222-22 : Adriano : 1       :
@@ -520,3 +521,55 @@ Schema:
     use database
 
 obs:Fiz a atividade durante a introdução a aula, fiquei muito para trás durante essa aula.
+
+## 01/07/2022
+Modelos de dados (planejamento antes de produzir a base de dados, feito no papel)
+  modelo de dados são formas visuais de mostrar a organização da base.
+  modelo de dados relacionais são formas visuais de mostrar a organização entre entidades.
+  Ferramentas:
+    Quadro
+    Desenho(dentro do Google Drive)
+    Diagrams.net(dentro do Google Drive)
+    Quick DBD (utilizada por nós para fazer os SQL´s)
+  Cardinalidades:
+    1:1 representa-se com um hífen: -
+    1:N representa-se com maior + hífen: >-
+    M:N representa-se com maior + hífen + menor: >-<
+
+## 05/07/2022
+SQL:
+    - Bancos de Dados;
+    - Tabelas;
+      Manter todas as informações das tabelas em maiuscula.
+    - Permissões de acesso;
+    - Registros de dados;
+    Gerenciar Transações: Confirmar ou Desfazer; 
+
+  DDL - Criar e Modificar:
+    Comandos:
+      CREATE  
+      ALTER
+      DROP
+  
+  DCL - Controle de dados:
+    Comandos:
+      GRANT
+      REVOKE
+
+  DTL - Gerenciamento de Transações:
+    Comandos:
+      BEGIN
+      COMMIT
+      ROLLBACK
+
+  DML - Manipulação de Dados:
+    Comandos:
+      INSERT
+      UPDATE
+      DELETE
+
+  DQL - Consultas:
+    Comandos:
+      SELECT
+
+obs: Hoje fomos separados em grupos para olhar os videos e fazer as atividades, mas não consegui chegar até as atividades.
