@@ -17,7 +17,7 @@
 ### Quem mantém e contribui com o projeto
  As empresas mantenedoras.
 ### Descritivo das ferramentas e aplicativos aprendidos até o momento.
- Prompt de comando, Github e VSCode
+ Trello, Github, Git, VSCode e SQLite.
 ### Minicurrículo
 ### Fontes de pesquisa e referências.
 
@@ -93,14 +93,14 @@ Exemplos: VSCode, Pycharm, Eclipse, etc...
 
 ## Bootstrap
 
- Sintaxe: forma correta de escrever em uma linha
+  Sintaxe: forma correta de escrever em uma linha
 ## Garbage collector
- Lixeira dos códigos
+  Lixeira dos códigos
  
 ## Sugestão do trabalho
- Banco de dados mostrando a variação de valor de ações da bolsa de valores
+  Banco de dados mostrando a variação de valor de ações da bolsa de valores
 ## Swap
-área de troca das operações que são menos dinâmicas, é uma extensão da memória RAM
+  área de troca das operações que são menos dinâmicas, é uma extensão da memória RAM
 ## Laço infinito
 Instruções de um programa que se repetem infinitamente.
 
@@ -573,3 +573,7 @@ SQL:
       SELECT
 
 obs: Hoje fomos separados em grupos para olhar os videos e fazer as atividades, mas não consegui chegar até as atividades.
+
+## 08/07/2022
+Fomos separados em grupos para fazer um banco de dados, fizemos boa parte da atividade
+planilha da atividade: https://onedrive.live.com/view.aspx?resid=BF3143FF1A9F609A!135&ithint=file%2cxlsx&authkey=!AC9LNNfReqJa4A8
