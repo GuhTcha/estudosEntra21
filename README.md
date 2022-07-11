@@ -203,15 +203,6 @@ O que me impede?
 ## 17/05/2022
 Hoje não teve daily scrum, tivemos a explicação de alguns exercícios
 
-## 18/05/2022
-hairbrush - on the table
-laptop - between the book
-umbrella - in the trash
-glasses - on the book
-keys - on the floor
-tablet - in front of the television
-credit card - next to the alarm clock
-
 ## 19/05/2022
 Foram passados mais exercícios feitos pelo professor, enquanto comentava sobre os mesmo e também foi introduzido as ferramentas de compartilhamento de tela (anydesk,...).
 
@@ -221,22 +212,10 @@ Hoje fizemos mais exercícios em Python, fiquei um pouco para trás, mas durante
 ## 23/05/2022
 A gente leu as nossas médias, dividimos os dicionários de dados, introdução args e kwargs, ficamos o restante da aula buscando fazer os exercícios e060.py, e060b.py e e060d.py funcionar.
 
-
 Atv:Criar uma base de dados
 
 ## 24/05/2022
 Hoje recaptulamos os exercicios anteriores e utilizamos o Sheets para desenvolver um banco de dados, tive certo êxito, mas não consegui completar o exercício.
-
-## 25/05/22
-Questions:
-  Country to visit: USA
-  Native language: English
-  Nationality: American
-  Largest City of this country: New York
-  Location you like to visit: Times Square
-
-Text:
-  I want to know United States of America, because it's my child dream, visit the world power country, because it's a totally diferent from Brazil, a developed country with the language most talked in the world, english, the first language i know some words after brazilian portuguese, and i want to visit some citys and places of this country, one of these is New York, Washington D.C, São Francisco, and others... Some of theses places and citys i want to know, because of the movies, the movies make my childhood attending "sessão da tarde" and others, the majority of movies is set in american soil show me the allmost tourist attractions and i want to see with my eyes.
 
 ## 26/05/2022
 O professor explicou algumas coisas, como "while", "for" e no fim baixamos um programa que monitora a temperatura do computador.
@@ -274,7 +253,7 @@ Hoje fizemos mais alguns exercícios dos e060 em diante e depois utilizamos o ve
 
 'Os requirements é atualizado usando o pip freeze > requeriments.txt'
 
-  ### Conectar um negócio local com a nuvem do GitHub: 
+  ### Conectar um repositório local com a nuvem do GitHub: 
     Indicar o URL:
       $ git remote add origin [URL]
 
