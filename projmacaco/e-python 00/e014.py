@@ -1,8 +1,8 @@
-from ast import Mult
+from this import d
 
 
-num1 = 10
-num2=90
-Mult = num1 * num2
-Div = num1/num2
-print ("a divisão é ",Div," a multiplicação é ",Mult)
+n1 = 10
+n2 = 20
+d = n1/n2
+m = n1*n2
+print(f"Divisão: {d}\nMultiplicação: {m}")

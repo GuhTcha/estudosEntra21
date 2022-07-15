@@ -1,6 +1,3 @@
-from re import I
-
-
 contador = 0
 soma = 0
 for i in range(1,101):

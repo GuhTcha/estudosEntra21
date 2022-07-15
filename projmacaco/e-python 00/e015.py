@@ -1,3 +1,3 @@
-num1=51
+num1=5
 
-print(num1 ** 8)
+print(num1 ** 3)

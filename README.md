@@ -556,3 +556,6 @@ obs: Hoje fomos separados em grupos para olhar os videos e fazer as atividades, 
 ## 08/07/2022
 Fomos separados em grupos para fazer um banco de dados, fizemos boa parte da atividade
 planilha da atividade: https://onedrive.live.com/view.aspx?resid=BF3143FF1A9F609A!135&ithint=file%2cxlsx&authkey=!AC9LNNfReqJa4A8
+
+## 14/07/20223
+Hoje o professor fez uma rápida revisão do exer200, no final da primeira metade até o final da segunda ficamos separados em grupos para olhar os vídeos do módulo 5, consegui olhar todos e anotar o que era necessário.

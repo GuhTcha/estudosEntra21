@@ -13,8 +13,8 @@ class concessionária:
         self.valor = valor
     pass
 carro1 = concessionária('Chery','Tiggo 8 TXS 1.6 Turbo','2023','Branco','R$ 201.990,00')
-carro2 = concessionária('BYD','Tan EV','2022','Cinza','R$ 515.890')
-carro3 = concessionária('Volvo','S60 R-Design T8 2.0','2022','Vermelho','R$ 269.950')
+carro2 = concessionária('BYD','Tan EV','2022','Cinza','R$ 515.890,00')
+carro3 = concessionária('Volvo','S60 R-Design T8 2.0','2022','Vermelho','R$ 269.950,00')
 
 print('----------\nEsses são os modelos que temos disponíveis:\n----------')
 print(carro1.marca,carro1.modelo,carro1.ano,carro1.cor,carro1.valor)
