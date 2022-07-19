@@ -559,3 +559,8 @@ planilha da atividade: https://onedrive.live.com/view.aspx?resid=BF3143FF1A9F609
 
 ## 14/07/20223
 Hoje o professor fez uma rápida revisão do exer200, no final da primeira metade até o final da segunda ficamos separados em grupos para olhar os vídeos do módulo 5, consegui olhar todos e anotar o que era necessário.
+
+## 18/07/2022
+Tivemos a visita do João, foi explicado muito sobre o curso, depois desta visita fomos separados em turma e ficamos todos quebrando a cabeça para relembrar o python e fazer atividade da calculadora de fita.
+
+O que me impediu? Não lembrar python, e ter dificuldade com não saber como funciona uma calculadora de fita.
