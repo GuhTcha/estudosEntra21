@@ -244,7 +244,7 @@ Hoje fizemos mais alguns exercícios dos e060 em diante e depois utilizamos o ve
   #### entrar no venv:
     e21 = C:\entra21\Dados-e21-22-curso\e21/Scripts/Activate.ps1
 
-    entra21 = C:\entra21\Dados-e21-22-curso\projmacaco\e-python01\[entra21].ps1
+    entra21 = C:\entra21\Dados-e21-22-curso\proj\e-python01\[entra21].ps1
   #### Sair do venv:
     deactivate
 
@@ -564,3 +564,12 @@ Hoje o professor fez uma rápida revisão do exer200, no final da primeira metad
 Tivemos a visita do João, foi explicado muito sobre o curso, depois desta visita fomos separados em turma e ficamos todos quebrando a cabeça para relembrar o python e fazer atividade da calculadora de fita.
 
 O que me impediu? Não lembrar python, e ter dificuldade com não saber como funciona uma calculadora de fita.
+
+## 02/08/2022
+Durante a aula fomos separados em grupos e cada grupo planejou seus projetos do TCC.
+
+## 05/08/2022
+Durante a aula foi liberado o módulo 5 no site de atividades do professor Adriano
+
+## 08/08/2022
+Hoje tivemos a última parte da matéria de finanças, aprendendo sobre finanças empresariais
