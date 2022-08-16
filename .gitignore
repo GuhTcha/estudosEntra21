@@ -109,7 +109,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-e21
 
 # Spyder project settings
 .spyderproject
@@ -128,6 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
 por-fora
-

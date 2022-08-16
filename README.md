@@ -17,7 +17,7 @@
 ### Quem mantém e contribui com o projeto
  As empresas mantenedoras.
 ### Descritivo das ferramentas e aplicativos aprendidos até o momento.
- Trello, Github, Git, VSCode e SQLite.
+ Python, Trello, Github, Git, VSCode e SQLite.
 ### Minicurrículo
 ### Fontes de pesquisa e referências.
 
@@ -573,3 +573,6 @@ Durante a aula foi liberado o módulo 5 no site de atividades do professor Adria
 
 ## 08/08/2022
 Hoje tivemos a última parte da matéria de finanças, aprendendo sobre finanças empresariais
+
+## 15/08/2022
+Hoje o professor nos introduziu o Django
