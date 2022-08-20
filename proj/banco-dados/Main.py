@@ -18,7 +18,13 @@
 13. Imprima lista de 2000 pessoas, ordenada por estado,cidade,idade,nome (vinda do SQL).
 '''
 #Bibliotecas requeridas
-import sqlite3 as db
+# import sqlite3 as db
+cnx = mysql.connector.connect(
+    host = '3.89.36.150',
+    user = 'e2122g4',
+    password = 'e2122g4@16@age',
+    database = 'e2122g4'
+)
 import pandas as pd
 import random as rd
 
@@ -54,11 +60,11 @@ cur.execute('''
 #Inserção de dados na tabela de MUNICIPIOS
 coluna_municipios = list(["ID","UF","Município"])
 municipios_in = (r"C:\Users\Gustavo\Downloads\Municípios - Página1.csv")
-pm = pd.read_csv(municipios_in, index_col=0, header=0, usecols=coluna_municipios)
+pm = pd.read_csv(municipios_in, index_col=0, header=0, nrows = 10, usecols=coluna_municipios)
 
 numero_cidade = list((pm.shape))[0]
 
-sql_mu=("INSERT INTO MUNICIPIOS('MUNICIPIO_NOME,MUNICIPIO_UF') VALUES(?, ?) ")
+sql_mu=("INSERT INTO MUNICIPIOS('MUNICIPIO_NOME,MUNICIPIO_UF') VALUES(%s, %s) ")
 for index,row in pm.iterrows():
     val=(row.UF,row.Município)
     cur.execute(sql_mu,val)
@@ -72,7 +78,7 @@ pp = pd.read_csv(pessoas_in, index_col=0, header=0, usecol=coluna_pessoas)
 
 numero_pessoas=list((pp.shape))[0]
 
-sql_pe=("INSERT INTO PESSOAS('PESSOA_NOME,PESSOA_IDADE,PESSOA_CIDADE_ID') VALUES(?, ?, ?) ")
+sql_pe=("INSERT INTO PESSOAS('PESSOA_NOME,PESSOA_IDADE,PESSOA_CIDADE_ID') VALUES(%s, %s, %s) ")
 for index,row in pp.iterrows():
     nome = row.first_name
     idade = rd.randrange(1,100)

@@ -576,3 +576,9 @@ Hoje tivemos a última parte da matéria de finanças, aprendendo sobre finança
 
 ## 15/08/2022
 Hoje o professor nos introduziu o Django
+
+## 18/08/2022
+Tivemos a visita da Maura e João, foi dito como ocorre as contratações. Melhoramos o README.md do projeto de previsão.
+
+## 19/08/2022
+Durante a aula de hoje fomos separados em grupos e resolvemos a mudança dos dados de SQLite para MySQL.

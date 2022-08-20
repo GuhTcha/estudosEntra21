@@ -30,13 +30,19 @@
 '''
 
 # pip install mysql-connector-python
-import sqlite3
+import mysql.connector
 import pandas as pd 
 import random
 
-cnx = sqlite3.connect()
-cur = cnx.cursor()
 
+cnx = mysql.connector.connect(
+    host = '3.89.36.150',
+    user = 'e2122g4',
+    password = 'e2122g4@16@ago',
+    database = 'e2122g4'
+    )
+
+cur = cnx.cursor()
 
 cur.execute("""
     DROP TABLE IF EXISTS CIDADES; 
@@ -97,9 +103,6 @@ url_or_file = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQrw2IJT8L_iuyYyZ
 colunas = list(['id','first_name'])
 df = pd.read_csv(url_or_file, index_col=0, header=0, nrows=tamanho, usecols=colunas)
 # a = list((df.shape))[0] 
-
-
-
 
 
 sql=("INSERT INTO PESSOAS (PESSOA_NOME,PESSOA_IDADE,PESSOA_CIDADE_ID) VALUES (%s, %s, %s) ")
